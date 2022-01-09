@@ -10,8 +10,8 @@ Some of my project highlights include:
 #### Follow me as I grow in my hardware & software knowledge and experience and continue to contribute to the industry.
 
 <a href="https://www.robertjkirk.com/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=11CaptainKirk&count_private=true&hide=stars&theme=github_dark&show_icons=true&hide_border=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=11CaptainKirk&card_width=100&count_private=true&hide=stars&theme=github_dark&show_icons=true&hide_border=true" />
 </a>
 <a href="https://www.robertjkirk.com/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11CaptainKirk&theme=github_dark&hide_border=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=11CaptainKirk&theme=github_dark&hide_border=true&layout=compact&langs_count=4" />
 </a>
