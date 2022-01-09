@@ -10,3 +10,4 @@ Some of my project highlights include:
 #### Follow me as I grow in my hardware & software knowledge and experience and continue to contribute to the industry.
 <a href="https://www.robertjkirk.com/"  target="_blank">![Robert Kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=11CaptainKirk&count_private=true&hide=stars&theme=github_dark&show_icons=true&hide_border=true)</a>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=11CaptainKirk)](https://www.robertjkirk.com/)
