@@ -8,5 +8,5 @@ Some of my project highlights include:
 - Much more on at my website: [robertjkirk.com](https://www.robertjkirk.com/projects-1)
 
 #### Follow me as I grow in my hardware & software knowledge and experience and continue to contribute to the industry.
-[![Robert Kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=11CaptainKirk&count_private=true&hide=stars&theme=github_dark&show_icons=true&hide_border=true)](https://www.robertjkirk.com/)
+<a href="https://www.robertjkirk.com/" target="_blank">![Robert Kirk's GitHub stats](https://github-readme-stats.vercel.app/api?username=11CaptainKirk&count_private=true&hide=stars&theme=github_dark&show_icons=true&hide_border=true)</a>
 
