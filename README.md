@@ -4,7 +4,7 @@ I'm an Electrical & Computer Engineering Student currently in the Austin, TX are
 Some of my project highlights include:
 
 - Thrust Vector Controlled Rocket Development including custom fuselage, avionics, and flight software / control algorithm design & development.
-- In-Development Personality-Aggregation Social Media Application: [Krkly.com](https://www.krkly.com/).
+- Personality-Aggregation Social Media Application Prototype: [Krkly.com](https://www.krkly.com/).
 - In-Development Consumer Product including custom PCB design, overseas manufacturing & logistics, Andorid & iOS App (React Native), BLE/UDP Communication (details to come).
 - Much more on my website: [robertjkirk.com](https://www.robertjkirk.com/projects-1).
 
